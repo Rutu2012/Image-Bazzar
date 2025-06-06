@@ -97,7 +97,7 @@ const ImageBazzar = () => {
         <h3>WHY IMAGESBAZAAR?</h3>
         <p>
           India's diversity and complexity can be witnessed through its people, traditions and values
-          associated with distinctive regional customs, habits, lifestyle and festivals. That's why our
+          associated with distinctive regional customs,. habits, lifestyle and festivals. That's why our
           content reflects the innate expressions of deep-rooted feelings of individuals through which
           spring their day-to-day actions. From contemporary concepts and ideas to the broadest range of
           categories depicting Indians in virtually all walks of life, age groups and expressions – you will
