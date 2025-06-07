@@ -7,7 +7,7 @@ import { FaFacebookF, FaLinkedinIn, FaTwitter, FaWhatsapp, FaPhoneAlt, FaEnvelop
 const ImageBazzar = () => {
 
   const images =[
-    { src: "/public/p1.jpg", alt: "Healthcare" },
+    { src: "p1.jpg", alt: "Healthcare" },
     { src: "/public/p2.jpg", alt: "Travel" },
     { src: "/public/p3.jpg", alt: "Beauty", },
     { src: "/public/p4.jpg", alt: "Business" },
